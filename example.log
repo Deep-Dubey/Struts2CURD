@@ -1,0 +1,21 @@
+ DEBUG main - 2022-01-21 17:05:51.944; - struts2.test.beans.example - This is debug method
+ INFO main - 2022-01-21 17:05:51.947; - struts2.test.beans.example - This is info method
+ ERROR main - 2022-01-21 17:05:51.947; - struts2.test.beans.example - This is error method
+ DEBUG main - 2022-01-21 17:05:51.947; - struts2.test.beans.example - This is debug from Level.DEBUG
+ INFO main - 2022-01-21 17:05:51.947; - struts2.test.beans.example - This is info from Level.INFO
+ ERROR main - 2022-01-21 17:05:51.947; - struts2.test.beans.example - This is error from Level.ERROR
+Aparajita  FATAL main - 2022-01-21 17:06:58.837; - struts2.test.beans.example - This is a fatal message for log4j
+Aparajita  ERROR main - 2022-01-21 17:06:58.839; - struts2.test.beans.example - This is an error message for log4j
+Aparajita  DEBUG main - 2022-01-21 17:06:58.840; - struts2.test.beans.example - This is an debug message for log4j
+Aparajita  WARN main - 2022-01-21 17:06:58.840; - struts2.test.beans.example - This is a warning message for log4j
+Aparajita  INFO main - 2022-01-21 17:06:58.840; - struts2.test.beans.example - This is an info message for log4j
+DeepDubey  FATAL main - 2022-01-21 17:08:06.373; - struts2.test.beans.example - This is a fatal message for log4j
+DeepDubey  ERROR main - 2022-01-21 17:08:06.374; - struts2.test.beans.example - This is an error message for log4j
+DeepDubey  DEBUG main - 2022-01-21 17:08:06.374; - struts2.test.beans.example - This is an debug message for log4j
+DeepDubey  WARN main - 2022-01-21 17:08:06.374; - struts2.test.beans.example - This is a warning message for log4j
+DeepDubey  INFO main - 2022-01-21 17:08:06.375; - struts2.test.beans.example - This is an info message for log4j
+Deep  FATAL main - 2022-01-21 17:08:32.542; - struts2.test.beans.example - This is a fatal message for log4j
+Deep  ERROR main - 2022-01-21 17:08:32.545; - struts2.test.beans.example - This is an error message for log4j
+Deep  DEBUG main - 2022-01-21 17:08:32.545; - struts2.test.beans.example - This is an debug message for log4j
+Deep  WARN main - 2022-01-21 17:08:32.545; - struts2.test.beans.example - This is a warning message for log4j
+Deep  INFO main - 2022-01-21 17:08:32.545; - struts2.test.beans.example - This is an info message for log4j
